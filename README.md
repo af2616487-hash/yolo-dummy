@@ -1,4 +1,4 @@
-# 🚀 YOLO Dummy - GitHub Achievement Guide!
+# 🚀 YOLO Dummy - GitHub Achievement Guide
 
 > **Y**ou **O**nly **L**ive **O**nce - Master GitHub Achievements & Best Practices!
 
